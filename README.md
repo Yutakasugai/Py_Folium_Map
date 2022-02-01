@@ -1,6 +1,6 @@
 Project Name: Web Mapping 
 
-~Key terms~
+Key terms
 
 -Created OOP 
 -Developed by Python to import a library 'folium' and create a map 
